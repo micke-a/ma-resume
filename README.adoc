@@ -1,0 +1,49 @@
+
+
+
+== Local setup
+
+....
+npm install resume-cli
+npm install jsonresume-theme-kwan
+npm install jsonresume-theme-elegant
+npm install jsonresume-theme-foobar
+....
+
+== Theme info
+
+* Not working
+** kwan , cannot install
+** modern, no styling at all
+
+
+* Newlines in text work
+** elegant (pdf not working though)
+
+
+
+* Mewlines in text does NOT work
+** flat
+** spartan
+** paper
+
+
+
+== Generating resume
+
+For HTML forst start http server in build folder.
+....
+python -m http.server
+....
+
+Then html resumes can be acccessed via http://localhost:8000/resume.html
+
+
+....
+
+resume export --theme elegant build\resume.html
+
+resume export --theme elegant build\resume.pdf
+
+....
+

@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Mikael Andersson",
+    "label": "Software Engineer",
+    "summary": "Full stack Software Engineer who enjoys working with users and solving business critical problems. \nPassionate about technology always keeping current and learning new things.",
+    "email": "mail.micke@gmail.com",
+    "phone": "(+44) 07774577724",
+    "location": {
+      "city": "Hertford",
+      "countryCode": "UK"
+    },
+    "profiles": [
+      {
+        "username": "javadev",
+        "url": "https://www.linkedin.com/in/javadev",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/micke-a",
+        "username": "micke-a",
+        "network": "github"
+      },
+      {
+        "url": "https://gitlab.com/milky",
+        "username": "milky",
+        "network": "gitlab"
+      }
+    ]
+  },
+  
+  "skills": [
+    {
+      "name": "Backend",
+      "keywords": [
+        "Java", 
+        "Spring", 
+        "Spring Boot",
+        "Kafka",
+        "Python", 
+        "Test Automation",
+        "REST",
+        "SQL",
+        "Hibernate / JPA"
+		  ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Freemarker",
+        "Spring MVC",
+        "Exposure to Angular/React"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Docker", 
+        "Kubernetes",
+        "Linux",
+        "Monitoring",
+        "Git",
+        "Maven",
+        "Gradle",
+        "GitLab CI",
+        "Jenkins",
+        "Harness",
+        "AWS"
+      ]
+    }
+  ],
+
+  "work": [
+    {
+      "company": "JPMorgan Chase",
+      "name": "JPMorgan Chase",
+      "summary": "Tech lead of the Card Transaction Squad responsible for card transaction orchestration for authorizations, clearing and everything in-between.\nThe platform consists of about 15 different micro services engineered with resiliency and self healing as a primary concern; leveraging benefits of synchronous and asynchronous processing with API idempotency, retries and observability.\nAs a Squad Tech Lead I am hands on while also being the main pont of contact for the squad with additional responsibilities such as  deep involvement in Project Increment planning, people management and cross team coordination.\nWe work using two week Sprints and as a Squad Lead I ensure Scrum events are run efficiently in a way so that the team is in the loop as much as possible of what is going on and jointly shape the backlog both for what's next and what is in the future.",
+      "website": "https://www.chase.co.uk/",
+      "url": "https://www.chase.co.uk/",
+      "position": "Senior Lead Software Engineer (L5)",
+      "startDate": "2021-10-31",
+      "roles": [
+        "Senior Software Engineer"
+      ],
+      "highlights": [
+        "Squad Tech Lead",
+        "Modern JVM tech stack",
+        "High throughput distributed platform"
+      ]
+    },
+    {
+      "company": "Mercuria Energy Trading",
+      "name": "Mercuria Energy Trading",
+      "summary": "Role spanning multiple business areas; Intermediation desk, compliance, scheduling and data science. \n\nWorking directly with the Intermediation desk ensuring trading and reporting runs smoothly while also working on enabling new business opportunities. \nEnsuring reporting obligations are met for REMIT, FinFrag and MiFID (II). Built REMIT reporting platform and threshold claculations for FinFrag, EMIR and MiFID II.\nEstablish, educate and assist non-IT employees and data scientists on a set of recommended ways of working on Python solutions. Advanced technical guidance and assistance to desk analysists",
+	    "website": "https://mercuria.com/",
+	    "url": "https://mercuria.com/",
+      "position": "Senior Software Engineer",
+      "startDate": "2017-03-01",
+      "endDate": "2021-10-31",
+      "roles": [
+        "Senior Software Engineer"
+      ],
+      "highlights": [
+        "Working closely with users",
+        "Vendor software integration",
+        "Front Office Desk exposure",
+        "Engineering aspects of ML/data science initiatives"
+      ]
+    },
+	
+    {
+      "summary": "Joined the Cradle team as a permanent employee where I continued in the same role.",
+      "company": "RBS",
+      "name": "RBS",
+	    "website": "https://www.rbs.com/",
+	    "url": "https://www.rbs.com/",
+      "position": "Senior Software Engineer (VP) / Technical hands-on Scrum Master",
+      "startDate": "2014-09-01",
+      "endDate": "2017-02-28",
+      "roles": [
+        "Senior Software Engineer",
+        "Technical Scrum Master"
+      ],
+      "highlights": [
+		    "Team lead role as technical Scrum Master"
+      ]
+    },
+    {
+      "summary": "Technical Scrum Master for one of three distributed scrum teams working on the Credit Risk and Default Loss Estimation (Cradle) application (same application as described below during the period April 2010 – April 2011).",
+      "company": "RBS",
+      "name": "RBS",
+	    "website": "https://www.rbs.com/",
+	    "url": "https://www.rbs.com/",
+      "position": "Senior Software Engineer (VP)/ Technical hands-on Scrum Master",
+      "startDate": "2012-04-01",
+      "endDate": "2014-09-01",
+      "roles": [
+        "Senior Software Engineer",
+        "Technical Scrum Master"
+      ],
+      "highlights": [
+        "Exciting work on a new Model Server application which support versioned Java calculation models",
+        "Regulator mandated changes to insurance, mid corporate and large corporate Probability of Default (PD) Models",
+        "LGD calculation methodology changes for facilities secured by guarantees"
+      ]
+    },
+    {
+      "summary": "Java developer on a Greenfield risk and valuation service to provide Market Risk users access to data across all their functional IT systems. This will become the bank wide 'Golden Source' for market risk data.The project was managed using the Scrum methodology and developed in Java. The system is essentially an Extraction Transform Load (ETL) framework at its core which will be made up of a large number of feeds which will populate our data mart. The data mart is implemented on SQL Server and designed as a star schema.",
+      "company": "RBC CM",
+      "name": "RBC CM",
+	    "website": "https://www.rbcroyalbank.com", 
+	    "url": "https://www.rbcroyalbank.com", 
+      "position": "IT Contractor",
+      "startDate": "2011-04-01",
+      "endDate": "2012-03-31",
+      "highlights": [
+        "Greenfield ETL system using Java and the Spring framework"
+      ]
+    },
+    {
+      "summary": "Full stack developer on the Credit Risk And Default Loss Estimation (Cradle) application. Cradle is a service which performs the calculations for other client applications. \nCradle is also the golden source for Probability of Default and Loss Given Default data, publishing feeds for downstream systems. Clients mainly interact with Cradle using SOAP web service calls. \nHad leading role on a project aimed at modernising the Cradle application, splitting it up into smaller standalone components exposing RESTful APIs. This project was managed using Scrum with two-week Sprints.",
+      "company": "RBS",
+      "name": "RBS",
+	    "website": "https://www.rbs.com/",
+	    "url": "https://www.rbs.com/",
+      "position": "IT Contractor",
+      "startDate": "2010-04-01",
+      "endDate": "2011-03-31",
+      "roles": [
+        "Senior Software Engineer"
+      ],
+      "highlights": [
+		    "First time working with Agile / Scrum",
+        "Scorecard grading of clients which calculates a Probability of Default",
+        "Loss Given Default model implementation",
+        "Risk Adjusted Return On Equity calculations"
+      ]
+    },
+    {
+      "summary": "Worked on an in-house Credit Risk system; a web application used by traders and risk management to monitor and manage the amount of credit related risk. The system deals with counterparty, settlement and issuer risk. \nApplication was developed in Java using libraries such as Spring, iBATIS, Struts, JSF, Seam and Facelets and deployed on a JBoss Application Server.",
+      "company": "Dresdner Kleinwort / Commerzbank",
+      "name": "Dresdner Kleinwort / Commerzbank",
+	    "website": "https://www.commerzbank.com/",
+	    "url": "https://www.commerzbank.com/",
+      "position": "IT Contractor",
+      "startDate": "2007-01-01",
+      "endDate": "2010-03-31",
+      "roles": [
+        "Senior Software Engineer"
+      ],
+      "highlights": [
+        "Frequent travel to Frankfurt Germany"
+      ]
+    },
+    {
+      "summary": "At the EBI I worked in the External Services group which provide a wide range of public bioinformatics services. \nBioinformatics services typically requires a lot of computational resources and one of the main things the team provide is a framework which schedules and executes user submitted jobs on our Linux compute farm. This involves a wide range of technologies e.g. Java, Perl, SOAP, XML, HTML and Unix.",
+      "company": "EBI - European Bioinformatics Institute",
+      "name": "EBI - European Bioinformatics Institute",
+      "position": "Software Engineer",
+	    "website": "https://www.ebi.ac.uk/",
+	    "url": "https://www.ebi.ac.uk/",
+      "startDate": "2004-09-01",
+      "endDate": "2007-01-01",
+      "roles": [
+        "Software Engineer"
+      ],
+      "highlights": [
+        "Very nice location just outside of Cambridge"
+      ]
+    },
+
+    {
+      "company": "En Bra Plats",
+      "name": "En Bra Plats",
+      "summary": "Social platform specifically for informal carers where they can find and share advice and information.",
+      "website": "https://www.enbraplats.se",
+      "url": "https://www.enbraplats.se",
+      "startDate": "2010-01-01",
+      "position": "All things technology",
+      "highlights":[
+        "Early exposure to AWS",
+        "Rewarding area to provide services in."
+      ]
+    },
+    {
+      "company": "Demenslotsen",
+      "name": "Demenslotsen",
+      "summary": "A guide for informal carers with close ones suffering cognitive disorder.",
+      "website": "https://www.demenslotsen.se",
+      "url": "https://www.demenslotsen.se",
+      "startDate": "2020-01-01",
+      "position": "All things technology",
+      "highlights":[
+        "Rewarding area to provide services in."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "startDate": "1999-09-01",
+      "endDate": "2004-06-01",
+      "area": "Intelligent Systems, Computer Systems Engineering",
+      "studyType": "Masters",
+      "institution": "Halmstad University, Sweden"
+    }
+  ],
+  "languages": [
+    {"language": "English", "fluency": "Fluent"},
+    {"language": "Swedish", "fluency": "Native speaker"}
+  ],
+  "volunteer": [{
+    "organization": "CoderDojo",
+    "position": "Mentor",
+    "website": "https://zen.coderdojo.com/dojos/gb/hertford/hertford-hertford-library",
+    "startDate": "2019-07-01",
+    "summary": "Mentoring at the Hertford CoderDojo.",
+    "highlights": [
+      "Great to be able to contribute back to the local community using my skill set"
+    ]
+  }]
+}
