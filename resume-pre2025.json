@@ -4,8 +4,8 @@
   },
   "basics": {
     "name": "Mikael Andersson",
-    "label": "Software Engineer",
-    "summary": "Full stack Software Engineer who enjoys working with users and solving business critical problems. \nPassionate about technology always keeping current and learning new things.",
+    "label": "Senior Lead Software Engineer",
+    "summary": "Back-end Software Engineer who enjoys working with users and solving business critical problems. \nPassionate about technology always keeping current and learning new things.",
     "email": "mail.micke@gmail.com",
     "phone": "(+44) 07774577724",
     "location": {
@@ -88,7 +88,7 @@
         "Senior Software Engineer"
       ],
       "highlights": [
-        "Squad Tech Lead",
+        "Tech Lead",
         "Modern JVM tech stack",
         "High throughput distributed platform"
       ]

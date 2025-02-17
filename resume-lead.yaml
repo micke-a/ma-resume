@@ -1,0 +1,232 @@
+---
+meta:
+  theme: elegant
+basics:
+  name: Mikael Andersson
+  label: Senior Lead Software Engineer
+  summary: |-
+    Back-end Software Engineer who enjoys leading teams, working with users and solving business critical problems.
+    Passionate about technology always keeping current and learning new things.
+  email: mail.micke@gmail.com
+  phone: "(+44) 07774577724"
+  location:
+    city: Hertford
+    countryCode: UK
+  profiles:
+    - username: javadev
+      url: https://www.linkedin.com/in/javadev
+      network: linkedin
+#    - url: https://github.com/micke-a
+#      username: micke-a
+#      network: github
+#    - url: https://gitlab.com/milky
+#      username: milky
+#      network: gitlab
+skills:
+  - name: Backend
+    keywords:
+      - Java
+      - Spring
+      - Spring Boot
+      - Kafka
+      - Python
+      - Test Automation
+      - REST
+      - Architecture
+      - SQL
+      - Hibernate / JPA
+  - name: Frontend
+    keywords:
+      - HTML
+      - CSS
+      - JavaScript
+      - Freemarker
+      - Spring MVC
+  - name: DevOps
+    keywords:
+      - Docker
+      - Kubernetes
+      - Terraform
+      - Linux
+      - Observability
+      - Git
+      - Maven
+      - Gradle
+      - GitLab CI
+      - Bitbucket
+      - Jenkins
+      - Harness
+      - Spinnaker
+      - AWS
+work:
+  - company: JPMorgan Chase
+    name: JPMorgan Chase
+    summary: |-
+      Tech lead of the Cards platform for the Chase UK digital bank, which is comprised of over 30 microservices focused on throughput, resiliency and self-healing.
+      I am hands on while also having additional responsibilities such as architecture and design, people management and cross team coordination.
+      
+      The platform handles everything related to Debit and Credit Cards; external and internal APIs for managing cards and all transaction and clearing processing.
+      
+      While running and enhancing the current production UK bank, we are also looking to the future and re-architecting the platform to support multiple markets and card products.
+      
+      Actively participating in company wide architecture initiatives and common source code creation and enhancements.
+    website: https://www.chase.co.uk/
+    url: https://www.chase.co.uk/
+    position: Senior Lead Software Engineer (L5)
+    startDate: '2021-10-31'
+    roles:
+      - Senior Lead Software Engineer
+    highlights:
+      - Java, Spring Boot
+      - Kubernetes, Docker, Helm, Terraform, Maven
+      - Kafka
+      - Bitbucket, Git
+      - Spinnaker, Harness, Jenkins
+
+  - company: Mercuria Energy Trading
+    name: Mercuria Energy Trading
+    summary: |-
+      Role spanning multiple business areas; Intermediation desk, compliance, scheduling and data science. 
+      
+      Working directly with the Intermediation desk ensuring trading and reporting runs smoothly while also working on enabling new business opportunities.
+      Ensuring reporting obligations are met for REMIT, FinFrag and MiFID (II). Built REMIT reporting platform and threshold calculations for FinFrag, EMIR and MiFID II.
+      
+      Establish, educate and assist non-IT employees and data scientists on a set of recommended ways of working on Python solutions, basically how to productionise their work.
+      Advanced technical guidance and assistance to desk analysts.
+    website: https://mercuria.com/
+    url: https://mercuria.com/
+    position: Senior Software Engineer
+    startDate: '2017-03-01'
+    endDate: '2021-10-31'
+    roles:
+      - Senior Software Engineer
+    highlights:
+      - Java, Spring Boot, Python
+      - Docker, Kubernetes, Helm, Maven
+      - Solace
+      - GitLab, Git
+      - Python,Airflow
+      - Engineering aspects of ML/data science initiatives
+
+  - company: RBS - Royal Bank of Scotland
+    name: RBS - Royal Bank of Scotland
+    summary: Joined the Cradle team as a permanent employee where I continued in the same role.
+    website: https://www.rbs.com/
+    url: https://www.rbs.com/
+    position: Senior Software Engineer (VP) / Technical hands-on Scrum Master
+    startDate: '2014-09-01'
+    endDate: '2017-02-28'
+    roles:
+      - Senior Software Engineer
+    highlights:
+      - Java, Spring, JBoss, Hudson, Gradle, Ant, HTTP APIs, JUnit
+      - Agile / Scrum
+
+  - company: RBS - Royal Bank of Scotland
+    name: RBS - Royal Bank of Scotland
+    summary: |-
+      Technical hands-on Scrum Master for one of three distributed scrum teams working on the Credit Risk and Default Loss Estimation (Cradle) application (same application as described below during the period April 2010 – April 2011).
+    website: https://www.rbs.com/
+    url: https://www.rbs.com/
+    position: Senior Software Engineer (VP)/ Technical hands-on Scrum Master
+    startDate: '2012-04-01'
+    endDate: '2014-09-01'
+    roles:
+      - Senior Software Engineer
+    highlights:
+      - Java, Spring, HTTP APIs, JUnit
+      - Hudson, Gradle, Ant
+      - JBoss
+      - Agile / Scrum
+
+  - company: RBC Capital Markets
+    name: RBC CM
+    summary: |-
+      Java developer on a Greenfield risk and valuation service to provide Market Risk users access to data across all their functional IT systems. This will become the bank wide 'Golden Source' for market risk data.
+      
+      The project was managed using the Scrum methodology and developed in Java. The system is essentially an Extraction Transform Load (ETL) framework at its core which will be made up of a large number of feeds which will populate our data mart. 
+      The data mart is implemented on SQL Server and designed as a star schema.
+    website: https://www.rbcroyalbank.com
+    url: https://www.rbcroyalbank.com
+    position: IT Contractor
+    startDate: '2011-04-01'
+    endDate: '2012-03-31'
+    highlights:
+      - Java, Spring, Maven
+      - ETL
+
+  - company: RBS - Royal Bank of Scotland
+    name: RBS - Royal Bank of Scotland
+    summary: |-
+      Full stack developer on the Credit Risk And Default Loss Estimation (Cradle) application. Cradle is a service which performs the calculations for other client applications.
+      
+      Cradle is also the golden source for Probability of Default and Loss Given Default data, publishing feeds for downstream systems. Clients mainly interact with Cradle using SOAP web service calls.
+      Had leading role on a project aimed at modernising the Cradle application, splitting it up into smaller standalone components exposing REST APIs. 
+      This project was managed using Scrum with two-week Sprints.
+    website: https://www.rbs.com/
+    url: https://www.rbs.com/
+    position: IT Contractor
+    startDate: '2010-04-01'
+    endDate: '2011-03-31'
+    roles:
+      - Senior Software Engineer
+    highlights:
+      - Java, Spring, HTTP APIs, JUnit
+      - Hudson, Gradle, Ant
+      - JBoss
+      - Agile / Scrum
+
+
+  - company: Dresdner Kleinwort / Commerzbank
+    name: Dresdner Kleinwort / Commerzbank
+    website: https://www.commerzbank.com/
+    summary: |-
+      Worked on an in-house Credit Risk system used by traders and risk management to monitor and manage the banks credit related risk. The system dealt with counterparty, settlement and issuer risk.
+      Application developed in Java using libraries such as Spring, iBATIS, Struts, JSF, Seam and Facelets and deployed on a JBoss Application Server.
+      
+      This role involved monthly travel to Frankfurt am Main in Germany where everyone except for I was based. 
+      Extra effort was put into communication and documentation to ensure that the team in Frankfurt and I were in sync.
+    url: https://www.commerzbank.com/
+    position: IT Contractor
+    startDate: '2007-01-01'
+    endDate: '2010-03-31'
+    roles:
+      - Senior Software Engineer
+    highlights:
+      - Java, Spring, iBATIS
+      - Struts, JSF, Seam, Facelets
+      - JBoss Application Server
+      - Frequent business travel
+
+
+  - company: EBI - European Bioinformatics Institute
+    name: EBI - European Bioinformatics Institute
+    summary: |-
+      At the EBI I worked in the External Services group which provide a wide range of public bioinformatics services.
+      Bioinformatics services typically require a lot of computational resources and one of the main things the team provide is a framework which schedules and executes user submitted jobs on our Linux compute farm. 
+      This involves a wide range of technologies e.g. Java, Perl, SOAP, XML, HTML and Unix.
+    position: Software Engineer
+    website: https://www.ebi.ac.uk/
+    url: https://www.ebi.ac.uk/
+    startDate: '2004-09-01'
+    endDate: '2007-01-01'
+    roles:
+      - Software Engineer
+    highlights:
+      - Java
+      - Linux
+      - External facing APIs
+      - Very nice location just outside of Cambridge
+
+education:
+  - startDate: '1999-09-01'
+    endDate: '2004-06-01'
+    area: Intelligent Systems, Computer Systems Engineering
+    studyType: Masters Degree
+    institution: Halmstad University, Sweden
+
+languages:
+  - language: English
+    fluency: Fluent
+  - language: Swedish
+    fluency: Native Speaker

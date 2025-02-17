@@ -31,19 +31,26 @@ npm install jsonresume-theme-foobar
 
 == Generating resume
 
-For HTML forst start http server in build folder.
+For HTML first start http server in build folder.
 ....
 python -m http.server
 ....
 
-Then html resumes can be acccessed via http://localhost:8000/resume.html
+Then html resumes can be accessed via http://localhost:8000/resume.html
 
 
 ....
 
+resume export --resume resume-lead.yaml --theme ./node_modules/jsonresume-theme-stackoverflow build\mikael-andersson.pdf
+
+
 resume export --theme elegant build\resume.html
 
-resume export --theme elegant build\resume.pdf
+resume export --resume resume-lead.yaml --theme elegant build\resume-elegant.pdf
+
+resume export --resume resume-lead.yaml --theme class build\resume-class.pdf
+
+resume export --resume resume-lead.yaml --theme stack build\resume-stack.pdf
 
 ....
 

@@ -4,14 +4,16 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "jsonresume-theme-elegant": "~1.16.0",
+    "jsonresume-theme-elegant": "~1.16.1",
     "jsonresume-theme-modern": "^0.0.18",
+    "jsonresume-theme-class": "^0.1.2",
     "jsonresume-theme-spartan": "^0.3.0",
-    "resume-cli": "3.0.8"
+    "jsonresume-theme-stackoverflow": "^2.1.0",
+    "resume-cli": "3.1.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "test2": "node node_modules/resume-cli export build/resume.html -r resume.json",
+    "test2": "node node_modules/resume-cli export build/resume.html -r resume-pre2025.json",
     "pdf": "resume export --theme elegant build\\mikael-andersson.pdf"
   },
   "keywords": [],
